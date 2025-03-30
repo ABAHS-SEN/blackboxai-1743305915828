@@ -1,0 +1,15 @@
+model/UserImages.class
+dao/LogDAO.class
+model/University.class
+model/UserLogs.class
+util/DatabaseConnection.class
+model/UserAuth.class
+model/Transaction.class
+dao/RatingDAO.class
+servlet/RegisterServlet.class
+dao/UserDAO.class
+servlet/RateServlet.class
+dao/UserAuthDAO.class
+model/User.class
+dao/UniversityDAO.class
+servlet/UsersServlet.class
