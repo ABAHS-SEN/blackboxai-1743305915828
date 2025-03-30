@@ -1,0 +1,15 @@
+/project/sandbox/user-workspace/backend/src/main/java/dao/RatingDAO.java
+/project/sandbox/user-workspace/backend/src/main/java/dao/UserAuthDAO.java
+/project/sandbox/user-workspace/backend/src/main/java/model/UserImages.java
+/project/sandbox/user-workspace/backend/src/main/java/model/Transaction.java
+/project/sandbox/user-workspace/backend/src/main/java/model/UserLogs.java
+/project/sandbox/user-workspace/backend/src/main/java/dao/UserDAO.java
+/project/sandbox/user-workspace/backend/src/main/java/dao/LogDAO.java
+/project/sandbox/user-workspace/backend/src/main/java/model/User.java
+/project/sandbox/user-workspace/backend/src/main/java/dao/UniversityDAO.java
+/project/sandbox/user-workspace/backend/src/main/java/model/University.java
+/project/sandbox/user-workspace/backend/src/main/java/servlet/RegisterServlet.java
+/project/sandbox/user-workspace/backend/src/main/java/servlet/UsersServlet.java
+/project/sandbox/user-workspace/backend/src/main/java/model/UserAuth.java
+/project/sandbox/user-workspace/backend/src/main/java/util/DatabaseConnection.java
+/project/sandbox/user-workspace/backend/src/main/java/servlet/RateServlet.java
